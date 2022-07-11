@@ -10,8 +10,9 @@ jobs:
     name: Update README.md with certificates
     runs-on: ubuntu-latest
     steps:
-      - uses: pemtajo/badge-readme@main
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BADGE_SIZE: 100
           CREDLY_USER: junku-kim
+          BADGE_SIZE: 100
