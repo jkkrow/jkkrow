@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: pemtajo/badge-readme@main
         with: 
-          CREDLY_USER: junku-kim
+          CREDLY_USER: Junku Kim
