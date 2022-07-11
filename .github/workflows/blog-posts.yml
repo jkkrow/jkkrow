@@ -1,0 +1,17 @@
+name: Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README.md with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: '4'
+          feed_list: 'https://blog.junkukim.com/rss/xml'
