@@ -11,3 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: pemtajo/badge-readme@main
+        with: 
+          CREDLY_USER: junku-kim
