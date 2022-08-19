@@ -26,7 +26,7 @@
 I'm a Full Stack Web Developer and AWS Cloud Engineer.
 
 - I'm specialized in Typescript and AWS which I mostly use when building websites.
-- I'm currently working on a personal project called [WatchTrees](https://github.com/jkkrow/watchtrees-frontend) which is a video streaming web application.
+- I'm currently working on a personal project called [WatchTree](https://github.com/jkkrow/watchtree-frontend) which is a video streaming web application.
 - I write blog posts on my [Blog Website](https://blog.junkukim.com) about technologies I've learned while building projects.
 
 ##
