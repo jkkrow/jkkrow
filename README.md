@@ -26,7 +26,7 @@
 I'm a Full Stack Web Developer and AWS Cloud Engineer.
 
 - I'm specialized in Typescript and AWS which I mostly use when building websites.
-- I'm currently working on a personal project called [WatchTrees](https://github.com/jkkrow/watchtrees-frontend) which is a video streaming web application.
+- I'm currently working on a personal project called [WatchTree](https://github.com/jkkrow/watchtree-frontend) which is a video streaming web application.
 - I write blog posts on my [Blog Website](https://blog.joonku.net) about technologies I've learned while building projects.
 
 ##
@@ -59,9 +59,7 @@ I'm a Full Stack Web Developer and AWS Cloud Engineer.
 ### Certificates
 
 <!--START_SECTION:badges-->
-
-[![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/9728ee39-7a02-460a-b168-66ae5c4f44c0 'AWS Certified Developer – Associate')
-
+[![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/9728ee39-7a02-460a-b168-66ae5c4f44c0 "AWS Certified Developer – Associate")
 <!--END_SECTION:badges-->
 
 ##
