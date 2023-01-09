@@ -1,19 +1,19 @@
 <div align="center">
-  <a href="https://junkukim.com">
+  <a href="https://joonku.net">
     <img src="https://raw.githubusercontent.com/jkkrow/portfolio/main/public/icons/logo.svg" alt="Logo" width="100" height="100">
   </a>
-  <h2 align="center">Hi 👋, I'm Junku Kim</h2>
+  <h2 align="center">Hi 👋, I'm Joonku Kim</h2>
   <div align="center">
-    <a href="https://junkukim.com">
+    <a href="https://joonku.net">
       <strong>Visit my website »</strong>
     </a>
     <br />
     <br />
     <img src="https://komarev.com/ghpvc/?username=jkkrow&style=flat-square&color=grey&label=Profile Views" alt="Profile Views" />
-    <a href="https://linkedin.com/in/junku-kim">
+    <a href="https://linkedin.com/in/joonku-kim">
       <img alt="Linkdein" src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin" />
     </a>
-    <a href="https://blog.junkukim.com">
+    <a href="https://blog.joonku.net">
       <img alt="Blog" src="https://img.shields.io/badge/My Blog-E6E6E6?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADwSURBVHgB7VXBDYMwDHSrDsAIjMAIbMIojAAjwASwAWwAG4QNYIM0FzVSqqqJG/CvJ1mE2OSwfRgiImVMC5m6vRZiuJMwxAkeIWdRFNQ0zcd+13XU9z1x8bVJZVlqB6WUNf8+z3NOo3kE/n7btnZvmiYZArw5sO97lOBUk7Msi8YkEZjM7HWeZ1Y8q0RYG1Xpuq5taS5vsg8QMA/n9wDah43jaGtvMqCqqljPJssUmRgyOZkCsVKdnkWGIOhPIvAPXdc1Gv9TiSBVN5OGYbhOpv6gA5ZlYUk1OK6P43j7Wt0aZcG4hj+G/y+TRbCRHLYnpVGoz48N03MAAAAASUVORK5CYII=" />
     </a>
   </div>
@@ -27,7 +27,7 @@ I'm a Full Stack Web Developer and AWS Cloud Engineer.
 
 - I'm specialized in Typescript and AWS which I mostly use when building websites.
 - I'm currently working on a personal project called [WatchTrees](https://github.com/jkkrow/watchtrees-frontend) which is a video streaming web application.
-- I write blog posts on my [Blog Website](https://blog.junkukim.com) about technologies I've learned while building projects.
+- I write blog posts on my [Blog Website](https://blog.joonku.net) about technologies I've learned while building projects.
 
 ##
 
@@ -69,16 +69,16 @@ I'm a Full Stack Web Developer and AWS Cloud Engineer.
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dealing with a Tree Data Structure with NodeJS and MongoDB](https://blog.junkukim.com/posts/tree-data-structure-with-nodejs-and-mongodb)
-- [Building a Tree Data Structure with React and Redux](https://blog.junkukim.com/posts/tree-data-structure-with-react-and-redux)
-- [AWS VOD Streaming - Deliver Video with AWS CloudFront](https://blog.junkukim.com/posts/aws-vod-streaming-deliver)
-- [AWS VOD Streaming - Convert Video with AWS Lambda &amp; MediaConvert](https://blog.junkukim.com/posts/aws-vod-streaming-convert)
+- [Dealing with a Tree Data Structure with NodeJS and MongoDB](https://blog.joonku.net/posts/tree-data-structure-with-nodejs-and-mongodb)
+- [Building a Tree Data Structure with React and Redux](https://blog.joonku.net/posts/tree-data-structure-with-react-and-redux)
+- [AWS VOD Streaming - Deliver Video with AWS CloudFront](https://blog.joonku.net/posts/aws-vod-streaming-deliver)
+- [AWS VOD Streaming - Convert Video with AWS Lambda &amp; MediaConvert](https://blog.joonku.net/posts/aws-vod-streaming-convert)
 <!-- BLOG-POST-LIST:END -->
 
-[See more blog posts »](https://blog.junkukim.com)
+[See more blog posts »](https://blog.joonku.net)
 
 ##
 
 ### Github Stats
 
-[![Junku Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkkrow&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkkrow&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Joonku Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkkrow&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkkrow&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
