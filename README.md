@@ -81,11 +81,11 @@
 <div align="center">
 
   <!-- BLOG-POST-LIST:START -->
-  - [Dealing with a Tree Data Structure with NodeJS and MongoDB](https://blog.joonku.net/posts/tree-data-structure-with-nodejs-and-mongodb)
-  - [Building a Tree Data Structure with React and Redux](https://blog.joonku.net/posts/tree-data-structure-with-react-and-redux)
-  - [AWS VOD Streaming - Deliver Video with AWS CloudFront](https://blog.joonku.net/posts/aws-vod-streaming-deliver)
-  - [AWS VOD Streaming - Convert Video with AWS Lambda &amp; MediaConvert](https://blog.joonku.net/posts/aws-vod-streaming-convert)
-  <!-- BLOG-POST-LIST:END -->
+- [Dealing with a Tree Data Structure with NodeJS and MongoDB](https://blog.joonku.net/posts/tree-data-structure-with-nodejs-and-mongodb)
+- [Building a Tree Data Structure with React and Redux](https://blog.joonku.net/posts/tree-data-structure-with-react-and-redux)
+- [AWS VOD Streaming - Deliver Video with AWS CloudFront](https://blog.joonku.net/posts/aws-vod-streaming-deliver)
+- [AWS VOD Streaming - Convert Video with AWS Lambda &amp; MediaConvert](https://blog.joonku.net/posts/aws-vod-streaming-convert)
+<!-- BLOG-POST-LIST:END -->
 
   [See all blog posts »](https://blog.joonku.net)
 
