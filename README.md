@@ -80,14 +80,14 @@
 
 <div align="center">
 
-  <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://blog.joonku.net/posts/tree-data-structure-with-nodejs-and-mongodb"><img width="140px" src="https://blog.joonku.net/images/posts/tree-data-structure-with-nodejs-and-mongodb/thumbnail.png"></a></td>
-<td><a href="https://blog.joonku.net/posts/tree-data-structure-with-nodejs-and-mongodb">Dealing with a Tree Data Structure with NodeJS and MongoDB</a><br/>Jul 9, 2022</td></tr></table>
-<table><tr><td><a href="https://blog.joonku.net/posts/tree-data-structure-with-react-and-redux"><img width="140px" src="https://blog.joonku.net/images/posts/tree-data-structure-with-react-and-redux/thumbnail.png"></a></td>
-<td><a href="https://blog.joonku.net/posts/tree-data-structure-with-react-and-redux">Building a Tree Data Structure with React and Redux</a><br/>Jul 2, 2022</td></tr></table>
-<table><tr><td><a href="https://blog.joonku.net/posts/aws-vod-streaming-deliver"><img width="140px" src="https://blog.joonku.net/images/posts/aws-vod-streaming-deliver/thumbnail.png"></a></td>
-<td><a href="https://blog.joonku.net/posts/aws-vod-streaming-deliver">AWS VOD Streaming - Deliver Video with AWS CloudFront</a><br/>Apr 16, 2022</td></tr></table>
-<table><tr><td><a href="https://blog.joonku.net/posts/aws-vod-streaming-convert"><img width="140px" src="https://blog.joonku.net/images/posts/aws-vod-streaming-convert/thumbnail.png"></a></td>
-<td><a href="https://blog.joonku.net/posts/aws-vod-streaming-convert">AWS VOD Streaming - Convert Video with AWS Lambda &amp; MediaConvert</a><br/>Apr 9, 2022</td></tr></table>
+  <!-- BLOG-POST-LIST:START --><table><tr><td width="250"><a href="https://blog.joonku.net/posts/tree-data-structure-with-nodejs-and-mongodb"><img src="https://blog.joonku.net/images/posts/tree-data-structure-with-nodejs-and-mongodb/thumbnail.png"></a></td>
+<td width="400"><a href="https://blog.joonku.net/posts/tree-data-structure-with-nodejs-and-mongodb">Dealing with a Tree Data Structure with NodeJS and MongoDB</a><br/>Jul 9, 2022</td></tr></table>
+<table><tr><td width="250"><a href="https://blog.joonku.net/posts/tree-data-structure-with-react-and-redux"><img src="https://blog.joonku.net/images/posts/tree-data-structure-with-react-and-redux/thumbnail.png"></a></td>
+<td width="400"><a href="https://blog.joonku.net/posts/tree-data-structure-with-react-and-redux">Building a Tree Data Structure with React and Redux</a><br/>Jul 2, 2022</td></tr></table>
+<table><tr><td width="250"><a href="https://blog.joonku.net/posts/aws-vod-streaming-deliver"><img src="https://blog.joonku.net/images/posts/aws-vod-streaming-deliver/thumbnail.png"></a></td>
+<td width="400"><a href="https://blog.joonku.net/posts/aws-vod-streaming-deliver">AWS VOD Streaming - Deliver Video with AWS CloudFront</a><br/>Apr 16, 2022</td></tr></table>
+<table><tr><td width="250"><a href="https://blog.joonku.net/posts/aws-vod-streaming-convert"><img src="https://blog.joonku.net/images/posts/aws-vod-streaming-convert/thumbnail.png"></a></td>
+<td width="400"><a href="https://blog.joonku.net/posts/aws-vod-streaming-convert">AWS VOD Streaming - Convert Video with AWS Lambda &amp; MediaConvert</a><br/>Apr 9, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
   [See all blog posts »](https://blog.joonku.net)
