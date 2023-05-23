@@ -17,4 +17,4 @@ jobs:
           accept_header: 'application/json'
           max_post_count: '4'
           date_format: 'mediumDate'
-          template: '<table><tr><td><a href="$url"><img width="140px" src="$image"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td width="250"><a href="$url"><img src="$image"></a></td>$newline<td width="400"><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
