@@ -69,7 +69,7 @@
 <div align="center">
   
   <!--START_SECTION:badges-->
-[![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/3ec70abd-2a9a-4625-90bb-9487fff8375f "AWS Certified Developer – Associate")
+<a href="https://www.credly.com/badges/3ec70abd-2a9a-4625-90bb-9487fff8375f" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
   
 </div>
